@@ -1,4 +1,4 @@
 reclist
 =======
 
-Eine mit Java Script optimierte liste zum darstellen mit receiver aufgenomener daten.
+Some JavaScript to format an apache directory listing. The directory contains .ts and .epg files which were recored with an receiver from Atemio (TitanNit).
